@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Toricane101, alt of @Toricane
+- 👀 I’m interested in Python coding
+- 🌱 I’m currently learning to code Discord bots
